@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Environment secrets
+.env.*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.idea/
+
+# Coverage and build output
+coverage/
+dist/
+config.bat
